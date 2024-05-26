@@ -1,0 +1,30 @@
+feat: Add new feature X
+
+- Describe what feature X does and why it was added
+- Provide any additional context or reasoning if necessary
+
+Fix: Resolve issue with component Y
+
+- Describe the problem that was fixed
+- Explain how the fix addresses the issue
+- Include any relevant information or changes made
+
+docs: Update README with new instructions
+
+- Describe the changes made to the documentation
+- Include any new information or instructions for users
+
+refactor: Simplify function Z for better performance
+
+- Explain the changes made to improve code quality or performance
+- Describe any refactoring techniques used
+
+test: Add unit tests for module A
+
+- Describe the tests that were added
+- Explain the purpose of the tests and what they cover
+
+chore: Update dependencies using npm audit fix
+
+- Describe the routine maintenance tasks performed
+- Include any dependency updates or package manager commands used
